@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Pokemon</string>
+    <string name="label_total_pokemon">Total Pokemon</string>
+    <string name="message_no_network_connected_str">No network connected!</string>
+    <string name="message_something_went_wrong_str">Something went wrong!</string>
+    <string name="displaying_151">Displaying 151</string>
+    <string name="message_load_pokemon_str">Loading more pokemon...</string>
+    <string name="content_description_pokemon_picture">Pokemon Picture</string>
+    <string name="content_description_click_to_change_pokemon">Click To Change Pokemon</string>
+</resources>
