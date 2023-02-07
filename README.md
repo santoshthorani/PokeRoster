@@ -1,8 +1,8 @@
 # PokeRoster App
 A simple app utilizing pokeapi.
 
-![PokeRoster Light](screenshot/PokeRosterLight.png)
-![PokeRoster Dark](screenshot/PokeRosterDark.png)
+![PokeRoster Light](screenshots/PokeRosterLight.png)
+![PokeRoster Dark](screenshots/PokeRosterDark.png)
 
 
 ## Feature
