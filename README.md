@@ -35,9 +35,9 @@ A simple app utilizing pokeapi.
 
 **Santosh Kumar**
 
-<a href="https://twitter.com/santosh_thorani"> 
-<img src="https://camo.githubusercontent.com/77eb10e0afd8c446bbddd3d01bec8d0a8862eefd8ff8713c159da9ee6a84a074/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d747769747465722d677265793f6c6f676f3d74776974746572">
+<a href="https://twitter.com/santosh_thorani" target="_blank"> 
+<img width="16" height="16" src="https://github.com/santoshthorani/PokeRoster/assets/19886903/70a19dd4-5163-42ac-b3be-5368887259fe"/>
 </a>
 <a href="https://www.linkedin.com/in/santosh-thorani/" target="_blank">
-  <img src="https://camo.githubusercontent.com/77ee4b4dacdd5043163a6bc47e9006b7f4e7c9de2d96cb40d1f9ec53c51c2b86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6c696e6b6564696e2d677265793f6c6f676f3d6c696e6b6564696e">
+  <img src="https://i.stack.imgur.com/gVE0j.png">
 </a>
