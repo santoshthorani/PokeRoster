@@ -1,9 +1,8 @@
 # PokeRoster App
 A simple app utilizing pokeapi.
 
-![PokeRoster Light](screenshots/PokeRosterLight.png)
-![PokeRoster Dark](screenshots/PokeRosterDark.png)
 
+<img src="/screenshots/PokeRosterLight.png" width=200/> <img src="/screenshots/PokeRosterDark.png" width=200/>
 
 ## Feature
 * Pokemon List with pagination 
